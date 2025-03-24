@@ -10,9 +10,6 @@ A simple music player web application that mimics Spotify, allowing users to bro
 ✅ Volume control  
 ✅ Responsive UI  
 
-## 🎬 Demo
-[Live Demo](#) (Add the hosted link)
-
 ## 🛠️ Technologies Used
 - HTML, CSS, JavaScript (Vanilla JS)
 - Fetch API for dynamic song loading
