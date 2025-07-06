@@ -15,4 +15,7 @@ A simple music player web application that mimics Spotify, allowing users to bro
 - Fetch API for dynamic song loading
 - Local file system for song storage
 
-## 📂 Folder Structure
+## 📂 Screenshots
+
+![](https://github.com/harshdeep-005/Spotify_Clone-HTML_CSS_JS/blob/main/Screenshot%202025-07-06%20173755.png)
+![](https://github.com/harshdeep-005/Spotify_Clone-HTML_CSS_JS/blob/main/Screenshot%202025-07-06%20173721.png)
