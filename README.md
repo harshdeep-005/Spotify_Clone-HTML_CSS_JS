@@ -1,6 +1,6 @@
 # 🎵 Spotify Clone - Web Music Player
 
-A simple music player web application that mimics Spotify, allowing users to browse albums, play songs, and control playback.
+A simple music player web application that mimics Spotify, allowing users to browse albums, play songs, and control playback. 
 
 ## 🚀 Features
 ✅ Play/Pause songs  
